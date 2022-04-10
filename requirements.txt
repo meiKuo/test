@@ -1,0 +1,11 @@
+psycopg2
+Flask-WTF
+Flask-Ext
+Flask_Session
+Jinja2
+itsdangerous
+click
+Werkzeug
+WTForms
+cachelib
+MarkupSafe
